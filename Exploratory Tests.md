@@ -23,7 +23,7 @@
 15. Wyszukiwanie produktów 
 16. Możliwość dodania opinii
 
-### Błędy w aplikacji
+### Znalezione błędy w aplikacji
 
 #### Strona główna
 
@@ -31,8 +31,11 @@
 
 ![1_pusty_link.png](images%2F1_pusty_link.png)
 #### Ankieta
+W trakcie opracowywania
 
 #### Koszyk
+W trakcie opracowywania
+
 #### Moje konto
 
 - po utworzeniu konta nie można zresetować hasła
@@ -41,5 +44,7 @@
 - niewidoczny opis checkboxa dotyczącego zapamiętania danych przy dodawaniu kolejnych opinii
 ![2_checkbox_opinie.jpg](images%2F2_checkbox_opinie.jpg)
 #### Zamówienie
+W trakcie opracowywania
 
 ### Podsumowanie 
+W trakcie opracowywania
