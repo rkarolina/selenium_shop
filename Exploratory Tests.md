@@ -22,6 +22,7 @@
 14. Ankieta sprzedażowa - możliwość podzielenia się opinią
 15. Wyszukiwanie produktów 
 16. Możliwość dodania opinii
+17. Powrót do początku (góry strony)
 
 ### Znalezione błędy w aplikacji
 
@@ -30,8 +31,13 @@
 - Pusty odnośnik "ZOBACZ"
 
 ![1_pusty_link.png](images%2F1_pusty_link.png)
+
+- Puste odnośniki znajdują się również w stopce strony w sekcji Social Links.
 #### Ankieta
-W trakcie opracowywania
+
+- literówka w oknie z danymi przed potwierdzeniem formularza
+
+![3_ankieta.png](images%2F3_ankieta.png)
 
 #### Koszyk
 W trakcie opracowywania

@@ -1,7 +1,8 @@
 # Testy automatyczne - Selenium Shop
 
 ## Kroki do wykonania
-1. Zapoznanie z aplikacją
+1. Zapoznanie z aplikacją 
+2. Utworzenie planu testów
 2. Utworzenie scenariuszy testowych
 3. Napisanie przypadków testowych w Python z wykorzystaniem Selenium Webdriver.
 4. Wykonanie testów.
@@ -18,7 +19,28 @@
 [Kliknij tutaj](https://github.com/rkarolina/selenium_shop/blob/main/Exploratory%20Tests.md)
 
 ## Scenariusze testowe
-[Kliknij tutaj](https://1drv.ms/x/s!AiWhhxI_zHSDgtoizwYLb_fSpq5lEQ?e=qoiBuk)
+W trakcie opracowywania <br><br>
+Pełna dokumentacja znajduje się
+[tutaj](https://1drv.ms/x/s!AiWhhxI_zHSDgtoizwYLb_fSpq5lEQ?e=qoiBuk).
+
+Lista scenariuszy testowych (łącznie 17):
+- [x] Rejestracja do Selenium Shop 
+- [x] Ponowna rejestracja do Selenium Shop 
+- [x] Logowanie do Selenium Shop 
+- [x] Zmiana danych
+- [x] Zmiana adresu e-mail
+- [x] Zmiana hasła do Selenium Shop
+- [x] Dodanie opinii do produktu 
+- [x] Wypełnienie ankiety
+- [x] Modyfikacja koszyka zakupowego
+- [x] Złożenie zamówienia + utworzenie konta
+- [ ] Zmiana adresu rozliczeniowego
+- [ ] Zmiana adresu do wysyłki
+- [ ] Sortowanie produktów 
+- [ ] Wyszukiwanie produktu
+- [ ] Wysyłka zamówienia do kraju innego niż Polska
+- [ ] Zapisanie hasła podczas logowania
+- [ ] Usunięcie produktu z koszyka
 
 ## Selektory
 W trakcie opracowywania
