@@ -49,8 +49,10 @@ W trakcie opracowywania
 #### Sklep
 - niewidoczny opis checkboxa dotyczącego zapamiętania danych przy dodawaniu kolejnych opinii
 ![2_checkbox_opinie.jpg](images%2F2_checkbox_opinie.jpg)
+
 #### Zamówienie
-W trakcie opracowywania
+- wyświetlana podpowiedź w polu wyszukiwania produktu jest w języku angielskim (strona nie ma innej wersji językowej niż polski)
+![4_language.png](images%2F4_language.png)
 
 ### Podsumowanie 
 W trakcie opracowywania
